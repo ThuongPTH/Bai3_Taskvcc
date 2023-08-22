@@ -21,4 +21,5 @@ def my_route():
 if __name__ == '__main__':
     app.run(port = 8080)
 
-#/* Chinh sua tren server may client */
+
+#Chinh sua hop nhat giua server & client
